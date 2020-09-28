@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .devide {
     width: 1300px;
     height: 470px;
@@ -44,4 +45,53 @@ p::after {
 p {
     font-size: larger;
     font: sans-serif;
+=======
+.devide {
+    width: 1300px;
+    height: 470px;
+    padding: 30px;
+    
+
+}
+#section1 {
+    background-color: #DFE6E9;
+}
+#section2 {
+    background-color: #30336B;
+}
+.sea {
+    float: left;
+    margin-right: 35px;
+    
+}
+.mountin {
+    float: left;
+    margin-right: 35px;
+
+}
+.write {
+    font: sans-serif;
+}
+#mouse:hover {
+    color: red;
+
+}
+#click:hover {
+    color: red;
+
+}
+p::selection {
+    background-color: goldenrod;
+    color:white;
+}
+
+p::after {
+    content: "Read More >>";
+    color: blue;
+   
+}
+
+p {
+    font-size: larger;
+>>>>>>> master
 }
