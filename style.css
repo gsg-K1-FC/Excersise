@@ -21,9 +21,7 @@
     margin-right: 35px;
 
 }
-.write {
-    font: sans-serif;
-}
+
 #mouse:hover {
     color: red;
 
@@ -45,4 +43,5 @@ p::after {
 
 p {
     font-size: larger;
+    font: sans-serif;
 }
