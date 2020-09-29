@@ -16,7 +16,7 @@
     margin-right: 35px;
     
 }
-.mountin {
+.mountin { 
     float: left;
     margin-right: 35px;
 
@@ -44,5 +44,5 @@ p::after {
 }
 
 p {
-    font-size: larger;
+    font-size: medium;
 }
